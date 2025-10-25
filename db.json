@@ -1,0 +1,44 @@
+{
+  "frases": [
+    {
+      "id": 1,
+      "frase": "Acredite em você mesmo e tudo será possível."
+    },
+    {
+      "id": 2,
+      "frase": "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+    },
+    {
+      "id": 3,
+      "frase": "A persistência realiza o impossível."
+    },
+    {
+      "id": 4,
+      "frase": "Não espere por oportunidades, crie-as."
+    },
+    {
+      "id": 5,
+      "frase": "O único lugar onde o sucesso vem antes do trabalho é no dicionário."
+    },
+    {
+      "id": 6,
+      "frase": "Sua única limitação é você mesmo."
+    },
+    {
+      "id": 7,
+      "frase": "Comece onde você está. Use o que você tem. Faça o que você pode."
+    },
+    {
+      "id": 8,
+      "frase": "A jornada de mil milhas começa com um único passo."
+    },
+    {
+      "id": 9,
+      "frase": "Se você pode sonhar, você pode realizar."
+    },
+    {
+      "id": 10,
+      "frase": "A melhor maneira de prever o futuro é criá-lo."
+    }
+  ]
+}
